@@ -6,7 +6,7 @@
 int main (){
 
 int a, b, c, resulmen, resulmas; 
-
+// test
 printf ("TE AYUDAREMOS A SOLUCIONAR UNA ECUACIÓN DE SEGUNDO GRADO\n"); 
 
 printf ("RECUERDA QUE LOS DATOS QUE TE VAMOS A PEDIR SERA A BASE DE ESTA ECUACION: (a)x^2+(b)x+c=0\n"); 
